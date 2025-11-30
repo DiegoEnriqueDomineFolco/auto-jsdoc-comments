@@ -164,3 +164,5 @@ This project was made with love, curiosity, and a desire to automate repetitive 
 If it helps you, I’m happy.
 If you improve it, even better.
 Enjoy and bless your coding journey 🙏✨
+
+***This tool was developed independently and contains no proprietary or confidential information from any employer or client.***
